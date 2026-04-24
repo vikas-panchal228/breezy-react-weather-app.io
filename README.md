@@ -56,32 +56,21 @@ The main dashboard displays localized weather and a detailed Air Quality Index m
 Replace image links with HTML tags in README
     <img width="2747" height="1404" alt="Screenshot 2025-05-25 233310" src="https://github.com/user-attachments/assets/97ca41cd-a8ff-4d2e-ab34-29f179830e8a" />
 
-    <img width="2455" height="1204" alt="Screenshot 2025-05-25 233333" src="https://github.com/user-attachments/assets/88395fe7-fb18-4025-a5c8-dae7e07a754f" />
-
-7 minutes ago
-
-Initialize README with project details and setup
+  <img width="2455" height="1204" alt="Screenshot 2025-05-25 233333" src="https://github.com/user-attachments/assets/88395fe7-fb18-4025-a5c8-dae7e07a754f" />
 
   Sensor Monitor
     The dedicated hardware interface showing live readings from the ESP8266.
+    
+  <img width="3723" height="1983" alt="Screenshot 2025-05-25 233456" src="https://github.com/user-attachments/assets/cf999df6-bee7-41c3-93bf-938c1000bd26" />
 
-4 minutes ago
-
-Replace image links with HTML tags in README
-
-    See: <img width="3723" height="1983" alt="Screenshot 2025-05-25 233456" src="https://github.com/user-attachments/assets/cf999df6-bee7-41c3-93bf-938c1000bd26" />
-
-7 minutes ago
-
-Initialize README with project details and setup
   Data Summary & Export
   
-    Historical trends and the data management suite for exporting readings.
+   Historical trends and the data management suite for exporting readings.
 
 4 minutes ago
 
-    <img width="3739" height="1982" alt="Screenshot 2025-05-25 233532" src="https://github.com/user-attachments/assets/24bc3dd4-23c4-4a53-80ff-1ea84f091d1e" />
+  <img width="3739" height="1982" alt="Screenshot 2025-05-25 233532" src="https://github.com/user-attachments/assets/24bc3dd4-23c4-4a53-80ff-1ea84f091d1e" />
 
-    <img width="1535" height="823" alt="Screenshot 2025-05-26 131511" src="https://github.com/user-attachments/assets/11df0458-706c-41ba-a341-0500e82dc9ad" />
+  <img width="1535" height="823" alt="Screenshot 2025-05-26 131511" src="https://github.com/user-attachments/assets/11df0458-706c-41ba-a341-0500e82dc9ad" />
 
-    <img width="3686" height="1935" alt="Screenshot 2025-05-26 131658" src="https://github.com/user-attachments/assets/610104e0-7ee6-479e-9d47-1c6434f544c5" />
+  <img width="3686" height="1935" alt="Screenshot 2025-05-26 131658" src="https://github.com/user-attachments/assets/610104e0-7ee6-479e-9d47-1c6434f544c5" />
