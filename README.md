@@ -1,3 +1,4 @@
+
 Weather & ESP8266 Sensor Dashboard
 This project is a full-stack web application designed to provide real-time weather information and localized environmental monitoring. It integrates external weather API data with live readings from an ESP8266-based sensor device, offering a comprehensive view of both outdoor and indoor conditions.
 
